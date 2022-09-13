@@ -1,1 +1,2 @@
-# Historia-de-lenguaje-c
+# tercero
+Historia de lenguaje c
